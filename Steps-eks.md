@@ -171,4 +171,7 @@ subjects:
 
 ### Generate token using service account in the namespace
 
+![image](https://github.com/user-attachments/assets/c224c0ed-dc47-4cfc-915c-96b259e21a6d)
+
+
 [Create Token](https://kubernetes.io/docs/reference/access-authn-authz/service-accounts-admin/#:~:text=To%20create%20a%20non%2Dexpiring,with%20that%20generated%20token%20data.)
